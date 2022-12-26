@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Merriweather';
+  src: url('~@/assets/fonts/Merriweather-Regular.eot');
+  src: local('Merriweather Regular'), local('Merriweather-Regular'),
+    url('~@/assets/fonts/Merriweather-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('~@/assets/fonts/Merriweather-Regular.woff') format('woff'),
+    url('~@/assets/fonts/Merriweather-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
